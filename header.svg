@@ -1,29 +1,44 @@
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="280" viewBox="0 0 850 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1">
-        <animate attributeName="stop-color" values="#0d1117;#1f173b;#0d1117" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#2a0f35;stop-opacity:1">
-        <animate attributeName="stop-color" values="#2a0f35;#4d1a42;#2a0f35" dur="6s" repeatCount="indefinite"/>
-      </stop>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="50%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928CA" />
+      <stop offset="100%" stop-color="#FF0080" />
     </linearGradient>
     <style>
-      .text {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        font-size: 55px;
-        font-weight: 800;
-        fill: #ffffff;
-        text-anchor: middle;
-        dominant-baseline: middle;
-      }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 52px; font-weight: 800; fill: #ffffff; letter-spacing: -1px; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 500; fill: #8b949e; }
+      .code { font-family: 'Courier New', Courier, monospace; font-size: 15px; fill: #58a6ff; font-weight: bold; }
+      .code-key { fill: #79c0ff; }
+      .code-string { fill: #a5d6ff; }
+      .highlight { fill: url(#accent); }
     </style>
   </defs>
-  <rect width="100%" height="100%" rx="15" fill="url(#grad)" />
-  <g transform="translate(400, 100)">
-    <g>
-      <animateTransform attributeName="transform" type="scale" values="1; 1.05; 1" dur="3s" repeatCount="indefinite"/>
-      <text class="text" x="0" y="0">Hi, I'm Suklal ??</text>
-    </g>
+
+  <rect width="100%" height="100%" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Subtle grid background -->
+  <path d="M 0 0 L 850 0 M 0 40 L 850 40 M 0 80 L 850 80 M 0 120 L 850 120 M 0 160 L 850 160 M 0 200 L 850 200 M 0 240 L 850 240 M 0 280 L 850 280" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1" />
+  <path d="M 0 0 L 0 280 M 40 0 L 40 280 M 80 0 L 80 280 M 120 0 L 120 280 M 160 0 L 160 280 M 200 0 L 200 280 M 240 0 L 240 280 M 280 0 L 280 280 M 320 0 L 320 280 M 360 0 L 360 280 M 400 0 L 400 280 M 440 0 L 440 280 M 480 0 L 480 280 M 520 0 L 520 280 M 560 0 L 560 280 M 600 0 L 600 280 M 640 0 L 640 280 M 680 0 L 680 280 M 720 0 L 720 280 M 760 0 L 760 280 M 800 0 L 800 280" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1" />
+
+  <!-- Code Block on Left -->
+  <g transform="translate(50, 70)">
+    <text class="code" x="0" y="0">const <tspan class="code-key">profile</tspan> = {</text>
+    <text class="code" x="20" y="30">name: <tspan class="code-string">"Suklal Gorai"</tspan>,</text>
+    <text class="code" x="20" y="60">role: <tspan class="code-string">"Frontend Dev"</tspan>,</text>
+    <text class="code" x="20" y="90">passion: <tspan class="code-string">"Problem Solving"</tspan></text>
+    <text class="code" x="0" y="120">};</text>
+    <text class="code" x="0" y="160"><tspan class="code-key">profile</tspan>.build();<tspan class="highlight">_</tspan></text>
+  </g>
+
+  <!-- Right side Intro -->
+  <g transform="translate(400, 120)">
+    <text class="title" x="0" y="0">Hi, I'm Suklal <tspan class="highlight">.</tspan></text>
+    <text class="subtitle" x="0" y="45">Building solutions that make</text>
+    <text class="subtitle" x="0" y="75">a real impact.</text>
   </g>
 </svg>
