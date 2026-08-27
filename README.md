@@ -127,8 +127,8 @@
 </p>
 
 <br>
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
-</p>
+<div align="center">
+  <i>"Building software isn't just about writing code, it's about solving real-life problems." – Suklal Gorai</i>
+</div>
 
 </div>
