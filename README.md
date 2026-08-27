@@ -46,8 +46,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">✨ Parlour & Saloon</h3>
-      <p align="left">Premium beauty parlour & salon client websites (<a href="https://saloontemplate.netlify.app">Salon Template</a>, <a href="https://rrstudioweb.netlify.app">RR Makeover</a>) focusing on responsive, beautiful interfaces.</p>
+      <h3 align="left">✨ Beauty & Photography</h3>
+      <p align="left">Premium client websites for beauty salons (<a href="https://saloontemplate.netlify.app">Salon Template</a>) and wedding photography (<a href="https://rrstudioweb.netlify.app">RR Studio</a>) focusing on responsive, beautiful interfaces.</p>
       <div align="left">
         <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/UI/UX-FF7262?style=flat&logo=figma&logoColor=white" />
