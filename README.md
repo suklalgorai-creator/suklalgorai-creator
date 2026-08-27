@@ -35,6 +35,17 @@
       </div>
     </td>
     <td width="50%" valign="top">
+      <h3 align="left">🛡️ <a href="https://github.com/suklalgorai-creator/Focus-Guard">Focus Guard</a></h3>
+      <p align="left">An extreme, multi-layered Android app blocker that uses adaptive friction, forced delays, and cognitive tasks to combat app addiction.</p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Personal_Project-000000?style=flat" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="left">🤝 <a href="https://sahyogjharkhand.netlify.app">Sahyog Jharkhand NGO</a></h3>
       <p align="left">A responsive, static-first NGO client website with scroll-triggered animations and direct UPI donation & Google Form integrations.</p>
       <div align="left">
@@ -43,8 +54,6 @@
         <img src="https://img.shields.io/badge/Client_Work-0052CC?style=flat&logo=upwork&logoColor=white" />
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="left">✨ <a href="https://saloontemplate.netlify.app">Beauty Parlour</a></h3>
       <p align="left">Premium beauty parlour & salon client website focusing on a responsive, beautiful interface.</p>
@@ -54,6 +63,8 @@
         <img src="https://img.shields.io/badge/Client_Work-0052CC?style=flat&logo=upwork&logoColor=white" />
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="left">📸 <a href="https://rrstudioweb.netlify.app">Wedding Photography</a></h3>
       <p align="left">A professional client website (RR Studio) for wedding photographers, showcasing portfolios and booking forms.</p>
@@ -63,12 +74,10 @@
         <img src="https://img.shields.io/badge/Client_Work-0052CC?style=flat&logo=upwork&logoColor=white" />
       </div>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">✈️ <a href="https://tourandtravelsweb.netlify.app">Tour & Travels</a></h3>
-      <p align="center">Dynamic travel agency client websites (Maa Amba, Bajrang Travels) showcasing tour packages, responsive galleries, and booking workflows.</p>
-      <div align="center">
+    <td width="50%" valign="top">
+      <h3 align="left">✈️ <a href="https://tourandtravelsweb.netlify.app">Tour & Travels</a></h3>
+      <p align="left">Dynamic travel agency client websites (Maa Amba, Bajrang Travels) showcasing tour packages, responsive galleries, and booking workflows.</p>
+      <div align="left">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/Frontend-000000?style=flat&logo=googlechrome&logoColor=white" />
         <img src="https://img.shields.io/badge/Client_Work-0052CC?style=flat&logo=upwork&logoColor=white" />
