@@ -80,8 +80,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suklalgorai-creator&show_icons=true&theme=transparent&hide_border=true&title_color=9C84EF&text_color=ffffff&icon_color=FF758F" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suklalgorai-creator&theme=transparent&hide_border=true&title_color=9C84EF&text_color=ffffff&icon_color=FF758F&background=00000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suklalgorai-creator&theme=transparent&hide_border=true&title_color=9C84EF&text_color=ffffff&icon_color=FF758F&background=00000000" width="80%" />
 </p>
 
 ---
