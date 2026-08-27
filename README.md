@@ -31,34 +31,36 @@
       <p align="left">An Android digital wellbeing app that provides a real-time counter for Instagram Reels to help users understand their scrolling habits.</p>
       <div align="left">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Mobile_App-000000?style=flat" />
+        <img src="https://img.shields.io/badge/Personal_Project-000000?style=flat" />
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">🤝 <a href="https://sahyogjharkhand.netlify.app">Sahyog Jharkhand NGO</a></h3>
-      <p align="left">A responsive, static-first NGO website with scroll-triggered animations and direct UPI donation & Google Form integrations.</p>
+      <p align="left">A responsive, static-first NGO client website with scroll-triggered animations and direct UPI donation & Google Form integrations.</p>
       <div align="left">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Client_Work-0052CC?style=flat&logo=upwork&logoColor=white" />
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">✨ Parlour & Saloon</h3>
-      <p align="left">Premium beauty parlour & salon web templates (<a href="https://saloontemplate.netlify.app">Salon Template</a>, <a href="https://rrstudioweb.netlify.app">RR Makeover</a>) built focusing on responsive, beautiful interfaces.</p>
+      <p align="left">Premium beauty parlour & salon client websites (<a href="https://saloontemplate.netlify.app">Salon Template</a>, <a href="https://rrstudioweb.netlify.app">RR Makeover</a>) focusing on responsive, beautiful interfaces.</p>
       <div align="left">
         <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/UI/UX-FF7262?style=flat&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Client_Work-0052CC?style=flat&logo=upwork&logoColor=white" />
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">✈️ <a href="#">Tour & Travels</a></h3>
-      <p align="left">Dynamic travel agency websites (Maa Amba, Bajrang Travels) showcasing tour packages, responsive galleries, and booking workflows.</p>
+      <h3 align="left">✈️ <a href="https://tourandtravelsweb.netlify.app">Tour & Travels</a></h3>
+      <p align="left">Dynamic travel agency client websites (Maa Amba, Bajrang Travels) showcasing tour packages, responsive galleries, and booking workflows.</p>
       <div align="left">
-        <img src="https://img.shields.io/badge/Frontend-000000?style=flat&logo=googlechrome&logoColor=white" />
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/Frontend-000000?style=flat&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Client_Work-0052CC?style=flat&logo=upwork&logoColor=white" />
       </div>
     </td>
   </tr>
