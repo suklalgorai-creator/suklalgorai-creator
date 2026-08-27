@@ -46,8 +46,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">✨ Beauty & Photography</h3>
-      <p align="left">Premium client websites for beauty salons (<a href="https://saloontemplate.netlify.app">Salon Template</a>) and wedding photography (<a href="https://rrstudioweb.netlify.app">RR Studio</a>) focusing on responsive, beautiful interfaces.</p>
+      <h3 align="left">✨ <a href="https://saloontemplate.netlify.app">Beauty Parlour</a></h3>
+      <p align="left">Premium beauty parlour & salon client website focusing on a responsive, beautiful interface.</p>
       <div align="left">
         <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/UI/UX-FF7262?style=flat&logo=figma&logoColor=white" />
@@ -55,9 +55,20 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">✈️ <a href="https://tourandtravelsweb.netlify.app">Tour & Travels</a></h3>
-      <p align="left">Dynamic travel agency client websites (Maa Amba, Bajrang Travels) showcasing tour packages, responsive galleries, and booking workflows.</p>
+      <h3 align="left">📸 <a href="https://rrstudioweb.netlify.app">Wedding Photography</a></h3>
+      <p align="left">A professional client website (RR Studio) for wedding photographers, showcasing portfolios and booking forms.</p>
       <div align="left">
+        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/UI/UX-FF7262?style=flat&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Client_Work-0052CC?style=flat&logo=upwork&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">✈️ <a href="https://tourandtravelsweb.netlify.app">Tour & Travels</a></h3>
+      <p align="center">Dynamic travel agency client websites (Maa Amba, Bajrang Travels) showcasing tour packages, responsive galleries, and booking workflows.</p>
+      <div align="center">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/Frontend-000000?style=flat&logo=googlechrome&logoColor=white" />
         <img src="https://img.shields.io/badge/Client_Work-0052CC?style=flat&logo=upwork&logoColor=white" />
