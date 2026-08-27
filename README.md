@@ -84,6 +84,16 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🎓 StudyFlow</h3>
+      <p align="center">A comprehensive student productivity and learning ecosystem. Stay tuned!</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-Coming_Soon-FFA500?style=flat" />
+        <img src="https://img.shields.io/badge/Personal_Project-000000?style=flat" />
+      </div>
+    </td>
+  </tr>
 </table>
 
 📌 More on my pinned repos below
