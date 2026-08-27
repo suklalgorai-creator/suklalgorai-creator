@@ -37,8 +37,15 @@
 
   <!-- Right side Intro -->
   <g transform="translate(400, 120)">
-    <text class="title" x="0" y="0">Hi, I'm Suklal <tspan class="highlight">.</tspan></text>
-    <text class="subtitle" x="0" y="45">Building solutions that make</text>
-    <text class="subtitle" x="0" y="75">a real impact.</text>
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="0.7; 1.05; 1" keyTimes="0; 0.7; 1" dur="1s" repeatCount="1" fill="freeze" />
+      <animate attributeName="opacity" values="0; 1; 1" keyTimes="0; 0.7; 1" dur="1s" repeatCount="1" fill="freeze" />
+      <text class="title" x="0" y="0">Hi, I'm Suklal <tspan class="highlight">.</tspan></text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0; 0; 1" keyTimes="0; 0.5; 1" dur="1.5s" repeatCount="1" fill="freeze" />
+      <text class="subtitle" x="0" y="45">Building solutions that make</text>
+      <text class="subtitle" x="0" y="75">a real impact.</text>
+    </g>
   </g>
 </svg>
