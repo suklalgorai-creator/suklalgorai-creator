@@ -1,18 +1,18 @@
 <div align="center">
 
 # Hi, I'm Suklal 👋
-### Full-Stack Developer | UI/UX Enthusiast
+### Problem Solver | Frontend Developer | Curious Learner
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9C84EF&center=true&vCenter=true&width=435&lines=AI-powered+applications;Full-stack+development;Open-source+contributor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9C84EF&center=true&vCenter=true&width=435&lines=Solving+real-life+problems;Frontend+Development;Always+Learning" alt="Typing SVG" /></a>
 
 ![Education](https://img.shields.io/badge/B.Tech_CSE-1st_Semester-7289DA?style=flat)
-![Focus](https://img.shields.io/badge/Focus-Full_Stack_|_UI/UX-B388FF?style=flat)
+![Focus](https://img.shields.io/badge/Focus-Frontend_Development-B388FF?style=flat)
 ![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-FF758F?style=flat)
 ![Profile Views](https://komarev.com/ghpvc/?username=suklalgorai-creator&color=282a36&style=flat&label=Profile+Views)
 
-*Passionate developer who likes building products end to end — from backend logic to interface polish.* <br>
-*Currently deep in web technologies and mobile apps, with a soft spot for clean UI/UX.* <br>
-*Building solutions that make a real impact.*
+*A curious problem-solver doing Frontend Development, with a strong hunger for learning new technologies.* <br>
+*I believe in building software that tackles real-life problems and improves our daily lives.* <br>
+*Currently focused on creating impactful tools like **ReelCount**, **Focus Guard**, and **StudyFlow**.*
 
 **Let's Connect:**<br>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
