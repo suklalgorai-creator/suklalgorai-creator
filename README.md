@@ -35,7 +35,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🤝 <a href="#">Sahyog Jharkhand NGO</a></h3>
+      <h3 align="left">🤝 <a href="https://sahyogjharkhand.netlify.app">Sahyog Jharkhand NGO</a></h3>
       <p align="left">A responsive, static-first NGO website with scroll-triggered animations and direct UPI donation & Google Form integrations.</p>
       <div align="left">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -46,8 +46,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">✨ <a href="#">Parlour & Saloon</a></h3>
-      <p align="left">Premium beauty parlour & salon web templates (Ishika Professional, RR Makeover) built focusing on responsive, beautiful interfaces.</p>
+      <h3 align="left">✨ Parlour & Saloon</h3>
+      <p align="left">Premium beauty parlour & salon web templates (<a href="https://saloontemplate.netlify.app">Salon Template</a>, <a href="https://rrstudioweb.netlify.app">RR Makeover</a>) built focusing on responsive, beautiful interfaces.</p>
       <div align="left">
         <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/UI/UX-FF7262?style=flat&logo=figma&logoColor=white" />
