@@ -87,7 +87,7 @@
   <tr>
     <td colspan="2" valign="top">
       <h3 align="center">🎓 StudyFlow</h3>
-      <p align="center">A comprehensive student productivity and learning ecosystem. Stay tuned!</p>
+      <p align="center">A smart student productivity app designed to tackle syllabuses and master revisions. It features a distraction-free timer and an AI mentor to guide and motivate you on your low days.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/Status-Coming_Soon-FFA500?style=flat" />
         <img src="https://img.shields.io/badge/Personal_Project-000000?style=flat" />
