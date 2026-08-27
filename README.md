@@ -84,6 +84,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suklalgorai-creator&theme=transparent&hide_border=true&title_color=9C84EF&text_color=ffffff&icon_color=FF758F&background=00000000" width="48%" />
 </p>
 
+---
+
+### 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suklalgorai-creator/suklalgorai-creator/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suklalgorai-creator/suklalgorai-creator/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suklalgorai-creator/suklalgorai-creator/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <br>
 <p align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
