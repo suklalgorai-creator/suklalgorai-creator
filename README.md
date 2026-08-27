@@ -5,7 +5,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9C84EF&center=true&vCenter=true&width=435&lines=AI-powered+applications;Full-stack+development;Open-source+contributor" alt="Typing SVG" /></a>
 
-![Education](https://img.shields.io/badge/B.Tech_CSIT-Semester_3-7289DA?style=flat)
+![Education](https://img.shields.io/badge/B.Tech_CSE-1st_Semester-7289DA?style=flat)
 ![Focus](https://img.shields.io/badge/Focus-Full_Stack_|_UI/UX-B388FF?style=flat)
 ![Status](https://img.shields.io/badge/Status-Building_Cool_Stuff-FF758F?style=flat)
 
